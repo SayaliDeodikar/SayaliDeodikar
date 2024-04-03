@@ -1,4 +1,4 @@
-### Hi there, I am Sayali Deodikar. 👋
+## Hi there, I am Sayali Deodikar. 👋
 I am a recent computer engineering graduate working at Bitwise Inc. I enjoy solving problems using data, logic, and statistics. I would love to connect and collaborate with amazing people like you to bring solutions to the table. 
 
 ### Skills: 
